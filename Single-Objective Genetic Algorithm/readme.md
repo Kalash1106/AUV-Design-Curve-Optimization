@@ -1,7 +1,7 @@
 <b>Code files for single objective genetic algorithm</b> </br>
 <b>Requirements</b></br>
 1. Python 3.4
-2. Library imports - In the command line type the following </n>
+2. Library imports - In the command line type the following </br>
 $ pip install pygad </br>
 $ pip install numba </br>
 $ pip install argparse </br>
